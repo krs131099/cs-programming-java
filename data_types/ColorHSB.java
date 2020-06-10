@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ *   The data type ColorHSB.java that represents a color in hue–saturation–brightness
+  (HSB) format, along with a sample client. The HSB color format is widely used
+  in color pickers. 
  **************************************************************************** */
 
 public class ColorHSB {

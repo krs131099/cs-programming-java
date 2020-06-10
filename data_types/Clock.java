@@ -1,12 +1,10 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ *The data type Clock.java that represents time on a 24-hour clock,
+ such as 00:00, 13:30, or 23:59. Time is measured in hours (00–23) and minutes (00–59).
  **************************************************************************** */
 
 public class Clock {
     private int h, m;
-    //private String s;
 
     public Clock(int h, int m) {
         if ((h < 0 || h > 23) || (m < 0 || m > 59)) {
